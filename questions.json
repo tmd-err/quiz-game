@@ -1,0 +1,105 @@
+{
+    "quiz": [
+      {
+        "question": "What is the capital of France?",
+        "answers": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct_answer": 2
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correct_answer": 1
+      },
+      {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "answers": ["Harper Lee", "J.K. Rowling", "Ernest Hemingway", "Mark Twain"],
+        "correct_answer": 0
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correct_answer": 3
+      },
+      {
+        "question": "Which element has the chemical symbol 'O'?",
+        "answers": ["Oxygen", "Gold", "Silver", "Osmium"],
+        "correct_answer": 0
+      },
+      {
+        "question": "In what year did the Titanic sink?",
+        "answers": ["1912", "1905", "1915", "1920"],
+        "correct_answer": 0
+      },
+      {
+        "question": "What is the hardest natural substance on Earth?",
+        "answers": ["Gold", "Iron", "Diamond", "Platinum"],
+        "correct_answer": 2
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "answers": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "correct_answer": 2
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "answers": ["0", "1", "2", "3"],
+        "correct_answer": 2
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answers": ["China", "Japan", "South Korea", "Thailand"],
+        "correct_answer": 1
+      },
+      {
+        "question": "What gas do plants use for photosynthesis?",
+        "answers": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correct_answer": 1
+      },
+      {
+        "question": "What is the main ingredient in guacamole?",
+        "answers": ["Tomato", "Avocado", "Onion", "Pepper"],
+        "correct_answer": 1
+      },
+      {
+        "question": "How many continents are there on Earth?",
+        "answers": ["5", "6", "7", "8"],
+        "correct_answer": 2
+      },
+      {
+        "question": "Which is the longest river in the world?",
+        "answers": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "correct_answer": 1
+      },
+      {
+        "question": "Who is known as the Father of Computers?",
+        "answers": ["Alan Turing", "Charles Babbage", "Ada Lovelace", "Bill Gates"],
+        "correct_answer": 1
+      },
+      {
+        "question": "What is the most widely spoken language in the world?",
+        "answers": ["Spanish", "Mandarin", "English", "Hindi"],
+        "correct_answer": 1
+      },
+      {
+        "question": "What is the chemical formula for water?",
+        "answers": ["H2O", "CO2", "O2", "CH4"],
+        "correct_answer": 0
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "answers": ["K2", "Kangchenjunga", "Everest", "Makalu"],
+        "correct_answer": 2
+      },
+      {
+        "question": "Which planet is closest to the Sun?",
+        "answers": ["Venus", "Earth", "Mercury", "Mars"],
+        "correct_answer": 2
+      },
+      {
+        "question": "What is the main function of the heart?",
+        "answers": ["Pumping blood", "Digesting food", "Producing hormones", "Filtering toxins"],
+        "correct_answer": 0
+      }
+    ]
+  }
+  

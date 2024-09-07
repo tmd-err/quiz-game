@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="fontAwesome/css/all.min.css">
+    <link rel="stylesheet" href="animate.min.css">
+    <title>Quiz Game</title>
+</head>
+<body>
+    <h2 id="title">
+        <i class="fa-solid fa-gamepad"></i> Quiz Game  
+    </h2>
+    <div id="start_button_container">
+        <button id="start_button"><i class="fa-solid fa-play"></i> Start</button>
+    </div>
+    <div id="quiz_container">
+        <form>
+            <fieldset>
+                <legend id="legend">GENERAL CULTURE</legend>
+                <div id="inputs_container">
+                    <label id="label_question"></label>
+                    <ul id="response_elements"></ul>
+                    <input class="drop" type="text" id="answer" placeholder="Write your answer">
+                    <div id="score_container">
+                        <p class="score">Your Score : <span id="score">0<span><div class="animate__animated" id="addScore"></div></p>
+                    </div>
+                    <label id="verify_answer"></label>
+                    <div id="buttons_container">
+                        <button type="button" id="check_answer">Check Answer</button>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+    <div id="congratulations"></div>
+    <script src="main.js"></script>
+</body>
+</html>
